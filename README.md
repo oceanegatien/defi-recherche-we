@@ -53,10 +53,19 @@ Question 6:
 **Qui est Grace Hopper ?**  
 
 Grace Hopper (1906-1992) est américaine, elle obtient un doctorat en mathématiques à Yale et commence à enseigner la discipline à Vassar College en 1931.  En 1943, elle s’engage dans l’armée américaine comme beaucoup d’autres femmes, dans l’unité exclusivement féminine WAVES. Ces femmes étaient appelés les « ordinateurs humains » et étaient en charge, pendant que les hommes étaient au front, d’étudier en particulier des trajectoires balistiques. Grace Hopper est affectée à Harvard comme lieutenant pour y programmer l’ordinateur Mark 1. Son supérieur H. Aiken, un peu réticent à l’idée d’avoir comme second une femme, accuse cependant très vite réception des qualités de Grace Hopper pour la discipline.  Le Mark 1 est un calculateur générique, programmable par cartes perforées.  Grace Hopper s’attèle à la programmation de cette machine dont les résultats seront très importants dans ce contexte de guerre. Grace Hopper décide alors de nommer le processus d’écrire des instructions, le codage (coding). Il est amusant de noter que ce terme, remplacé par celui de programmation, vient d’être récemment remis au goût du jour. À l’issue de la guerre, Grace Hopper ne peut réintégrer la Navy en raison de son âge trop avancé, et  doit quitter Harvard qui n’attribue pas de postes de professeurs aux femmes.  
+Source : http://binaire.blog.lemonde.fr/2015/03/08/la-petulante-grace-hopper/
 
 Question 7:
 -----------  
 **Qu'est-ce que Qwant ?**  
 
 Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.  
+Source : https://fr.wikipedia.org/wiki/Qwant
 
+Question 8: 
+-----------  
+**Qui est Steve Wozniak ?**  
+
+Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.  
+Source : https://fr.wikipedia.org/wiki/Steve_Wozniak
