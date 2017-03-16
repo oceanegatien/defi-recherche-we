@@ -174,4 +174,13 @@ Celle de la mairie Auch est 89.87.134.88 et celle de mon ordinateur est 192.168.
 Source : http://www.mon-ip.com/adresse-ip-locale.php  
 
 Question 23 : 
--------------
+-------------  
+**Et celle de votre smartphone ?**  
+
+100.110.254.155  
+
+Question 24 : 
+-------------  
+**
+
+
