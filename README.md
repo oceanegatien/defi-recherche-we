@@ -72,5 +72,21 @@ Source : https://fr.wikipedia.org/wiki/Steve_Wozniak
 
 Question 9:  
 -----------  
+**D'où vient l'expression "bug informatique" ?**
 
-Grace Hopper est connue pour avoir rendu populaire la notion de « bug », même si le terme était déjà utilisé pour désigner des phénomènes inexplicables. Le terme de « bug » est associé à la découverte d’un insecte, en l’occurrence une mite, qui avait provoqué un faux contact et une  erreur dans l’exécution  d’un programme.
+Grace Hopper est connue pour avoir rendu populaire la notion de « bug », même si le terme était déjà utilisé pour désigner des phénomènes inexplicables. Le terme de « bug » est associé à la découverte d’un insecte, en l’occurrence une mite, qui avait provoqué un faux contact et une  erreur dans l’exécution  d’un programme.  
+Source : http://binaire.blog.lemonde.fr/2015/03/08/la-petulante-grace-hopper/  
+
+Question 10 : 
+-------------  
+**Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?**  
+
+J'ai trouver la cantine, sur Toulouse. Le concept de Cantine s’est installé dans la Ville Rose début 2011.Agitateur d’idées, La Cantine est avant tout un lieu d’échange, de rencontres et d’expérimentation ouvert à tous les curieux et passionnés du Numérique. Le prochain évenement est "Jeudi Formation : Google drive, ou la puissance des outils logiciels collaboratifs" et "After work : Happy Health" le 16 mars.
+Source : http://lacantine-toulouse.org  
+
+Question 11 :  
+-------------  
+**Quels sont les prochains rendez-vous tech de Toulouse ?**  
+
+Il y a "Mismo Day's 2017" par exemple. Source : https://www.eventbrite.fr/d/france--toulouse/events/
+
