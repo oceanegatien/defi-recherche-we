@@ -135,4 +135,8 @@ Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une info
 Source : https://fr.wikipedia.org/wiki/Marissa_Mayer  
 
 Question 18 :
--------------
+-------------  
+**Qu’est-ce qu’une attaque “brute force” ?**  
+
+Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !Ce type d'attaque pirate est en réalité la moins subtile de toutes.  
+Source : https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
