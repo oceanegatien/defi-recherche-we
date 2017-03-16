@@ -164,6 +164,14 @@ Question 21 :
 
 <img src="https://fr.mailjet.com/images/faq/en_US/email_types.png" alt="Tableau des differents services d'emailing">
 On utilisera les emails de notifications.  
-Source : https://fr.mailjet.com/docs/email_types
+Source : https://fr.mailjet.com/docs/email_types  
 
+Question 22 :
+-------------  
+**Quelle est votre adress IP actuelle ?**  
 
+Celle de la mairie Auch est 89.87.134.88 et celle de mon ordinateur est 192.168.1.180.  
+Source : http://www.mon-ip.com/adresse-ip-locale.php  
+
+Question 23 : 
+-------------
