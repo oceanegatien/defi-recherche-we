@@ -186,6 +186,11 @@ Question 24 :
 Le cycle en V est une méthode d’organisation très connue dont l’origine remonte à l’industrie et qui a été adaptée à l’informatique dans les années 80. On peut y distinguer 3 grandes parties : La phase de conception, la phase de réalisation (codage) et la phase de validation.  
 Source : http://www.geek-directeur-technique.com/2009/02/04/le-cycle-en-v  
 
+Question 25 :
+-------------  
+**Les Hackers sont-ils des hors-la-loi ?**  
 
-
+Le hacker est une personne qui rentre dans un système informatique en sautant les barrières de protection, souvent par défi intellectuel et pas toujours par profit matériel. Certains ne font que visiter le système causant, malgré tout, la panique des services de sécurité. 
+D'autres hackers appelés parfois crackers sont beaucoup plus nuisibles; ils pénètrent un système et en détériorent le software en le modifiant,en le détruisant, en lui implantant un virus, etc...  
+Source : http://sef.xena.ad/lcf/traque/hackers.htm
 
