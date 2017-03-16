@@ -116,7 +116,7 @@ Question 15 :
 -------------  
 **Qui est Richard Stallman ?**  
 
-Richard Matthew Stallman, connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.  
+Richard Matthew Stallman, connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.  
 Source : https://fr.wikipedia.org/wiki/Richard_Stallman  
 
 Question 16:
@@ -124,6 +124,15 @@ Question 16:
 **Comment fonctionnent les bang de Duck Duck Go ?**  
 
 DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
-La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs2,3 (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.  
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.  
 Source : https://fr.wikipedia.org/wiki/DuckDuckGo  
 
+Question 17 :
+-------------  
+**Qui est Marissa Mayer ?**  
+
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation. Marissa Mayer a aussi travaillé à la conception et au développement de l'interface de recherche de Google, la création de Google Actualités ou encore Gmail et Orkut ainsi que plus d'une centaine de fonctionnalités et produits sur Google.com. Marissa Mayer a déposé plusieurs brevets dans le domaine de l'intelligence artificielle et de la conception d'interfaces.  
+Source : https://fr.wikipedia.org/wiki/Marissa_Mayer  
+
+Question 18 :
+-------------
