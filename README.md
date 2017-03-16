@@ -216,5 +216,9 @@ Question 28 :
 **Retrouvez le code source de la mission Apollo 11. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)**  
 
 Code complet de l'apollo 11 : https://github.com/chrislgarry/Apollo-11/  
-Le langage utilisé est yaYUL, le nombre de collaborateurs de 7 et Hamilton a travailler sur le code d'Appollo 11 de 1961 à 1973.
+Le langage utilisé est yaYUL, le nombre de collaborateurs de 7 et Hamilton a travailler sur le code d'Appollo 11 de 1961 à 1973.  
+Question 29 :
+-------------  
+**Qu’est-ce que Agile Manifesto ?**  
 
+Le Manifeste agile est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. Les méthodes agiles ne sont pas apparues avec l’Agile manifesto en 2001 mais celui-ci détermine leur commun dénominateur et consacre le terme d'« agile » pour les référencer. Les valeurs et principes du Manifeste agile sont défendus par l'Agile Alliance.
