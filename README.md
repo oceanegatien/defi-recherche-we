@@ -23,7 +23,7 @@ Source : https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-inter
 
 Question 3:
 -----------
-**Qu’est-ce que cela : 8.8.8.8 / 192.168.0.1 / 255.255.255.0 / 127.0.0.1 ?  
+**Qu’est-ce que cela : 8.8.8.8 / 192.168.0.1 / 255.255.255.0 / 127.0.0.1 ?**
 
 * 8.8.8.8 : Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 20091. (Source : https://fr.wikipedia.org/wiki/Google_Public_DNS)
 * 192.168.0.1 : Ceci est une adresse IP. Les réseaux IP sont caractérisés par leur indépendance par rapport au matériel et par la possibilité d'établir une communication entre 2 machines situées des réseaux différents (on dit que c'est un protocole "routable"). Ces avantages découlent du mode d'adressage choisi: on affecte à chaque interface une adresse logique découlant de l'adresse du réseau auquel elle est connectée. (Source : http://www.linux-france.org/article/formation/net.html)
@@ -32,3 +32,10 @@ L'adresse du sous-réseau est obtenue en appliquant l'opérateur ET binaire entr
 * 127.0.0.1 : En informatique, on travaille souvent en mode client-serveur : une ou plusieurs machines envoient des requêtes à un serveur central1 qui envoie les réponses appropriées. C'est par exemple le cas d’un serveur web ou d’un serveur de bases de données.
 Lors de la phase de développement d’un programme informatique impliquant des échanges sur un réseau, il n’est pas pour autant nécessaire de disposer de plusieurs machines physiques ni même virtuelles : la même machine physique peut parfaitement héberger le serveur et un ou plusieurs clients, exactement dans les mêmes conditions : en communiquant par des ports.
 Dans le domaine des réseaux informatiques, localhost (l’hôte local en français) est le nom habituel qui désigne une interface logique de l’ordinateur local. (Source : https://fr.wikipedia.org/wiki/Localhost)
+
+Question 4:
+-----------  
+**Que sont le copyright et le copyleft ?**  
+
+* Copyriright : Droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.  
+* Copyleft : Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
