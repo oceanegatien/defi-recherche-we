@@ -181,6 +181,11 @@ Question 23 :
 
 Question 24 : 
 -------------  
-**
+**Qu’est-ce que le développement en cycle V ?**  
+
+Le cycle en V est une méthode d’organisation très connue dont l’origine remonte à l’industrie et qui a été adaptée à l’informatique dans les années 80. On peut y distinguer 3 grandes parties : La phase de conception, la phase de réalisation (codage) et la phase de validation.  
+Source : http://www.geek-directeur-technique.com/2009/02/04/le-cycle-en-v  
+
+
 
 
