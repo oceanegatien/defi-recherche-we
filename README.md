@@ -88,5 +88,11 @@ Question 11 :
 -------------  
 **Quels sont les prochains rendez-vous tech de Toulouse ?**  
 
-Il y a "Mismo Day's 2017" par exemple. Source : https://www.eventbrite.fr/d/france--toulouse/events/
+Il y a "Mismo Day's 2017" par exemple. Source : https://www.eventbrite.fr/d/france--toulouse/events/  
 
+Question 12 : 
+-------------  
+**Qui est Aaron Swartz ?**  
+
+Aaron Hillel Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.
