@@ -215,3 +215,6 @@ Question 28 :
 -------------  
 **Retrouvez le code source de la mission Apollo 11. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)**  
 
+Code complet de l'apollo 11 : https://github.com/chrislgarry/Apollo-11/  
+Le langage utilisé est yaYUL, le nombre de collaborateurs de 7 et Hamilton a travailler sur le code d'Appollo 11 de 1961 à 1973.
+
