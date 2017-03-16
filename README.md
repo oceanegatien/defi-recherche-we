@@ -110,4 +110,12 @@ Question 14 :
 **Quelles sont les différences entre le Http et le Https ?**  
 
 HTTP signifie "HyperText Transport Protocol", communément appelé un protocole pour les informations transmises entre les serveurs web et leurs clients. C'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de Secure (sécurité).  
-Source : http://www.africanbusinessjournal.info/?option=com_content&view=article&id=936:saviez-vous-quelle-est-la-difference-entre-http-et-https&catid=37:innovations&Itemid=397
+Source : http://www.africanbusinessjournal.info/?option=com_content&view=article&id=936:saviez-vous-quelle-est-la-difference-entre-http-et-https&catid=37:innovations&Itemid=397  
+
+Question 15 : 
+-------------  
+**Qui est Richard Stallman ?**  
+
+Richard Matthew Stallman, connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.  
+Source : https://fr.wikipedia.org/wiki/Richard_Stallman  
+
