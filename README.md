@@ -41,8 +41,15 @@ Question 4:
 * Copyleft : Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.  
 
 Question 5:
-----------  
+-----------  
 **Que sont les Creatives Commons ?**
 
 Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique. Résumé Creative Commons propose des contrats-type ou licences pour la mise à disposition d’œuvres en ligne. Inspirés par les licences libres, les mouvementsopen source et open access, ces licences facilitent l’utilisation d’œuvres (textes, photos, musique, sites web, etc).  
-Source : http://creativecommons.fr/
+Source : http://creativecommons.fr/  
+
+Question 6:
+-----------  
+
+**Qui est Grace Hopper ?**  
+
+Grace Hopper (1906-1992) est américaine, elle obtient un doctorat en mathématiques à Yale et commence à enseigner la discipline à Vassar College en 1931.  En 1943, elle s’engage dans l’armée américaine comme beaucoup d’autres femmes, dans l’unité exclusivement féminine WAVES. Ces femmes étaient appelés les « ordinateurs humains » et étaient en charge, pendant que les hommes étaient au front, d’étudier en particulier des trajectoires balistiques. Grace Hopper est affectée à Harvard comme lieutenant pour y programmer l’ordinateur Mark 1. Son supérieur H. Aiken, un peu réticent à l’idée d’avoir comme second une femme, accuse cependant très vite réception des qualités de Grace Hopper pour la discipline.  Le Mark 1 est un calculateur générique, programmable par cartes perforées.  Grace Hopper s’attèle à la programmation de cette machine dont les résultats seront très importants dans ce contexte de guerre. Grace Hopper décide alors de nommer le processus d’écrire des instructions, le codage (coding). Il est amusant de noter que ce terme, remplacé par celui de programmation, vient d’être récemment remis au goût du jour. À l’issue de la guerre, Grace Hopper ne peut réintégrer la Navy en raison de son âge trop avancé, et  doit quitter Harvard qui n’attribue pas de postes de professeurs aux femmes.
