@@ -149,4 +149,12 @@ En 1991, un étudiant en informatique finlandais appelé Linus Torvalds écrivit
 Il fut submergé par les réponses et ce qui était à la base un projet d'étudiant devint de fil en aiguille un système d'exploitation complet.
 Torvalds fut agréablement surpris de constater que pratiquement tous les utilitaires dont il avait besoin pour étoffer son système étaient déjà disponibles sous la forme des utilitaires GNU et autres logiciels libres. Il les intégra tous et baptisa ce système d'exploitation complet Linux, pour Linus Unix.
 Il a également créé le système de contrôle de révision distribué Git et le logiciel de plongée et de planification sous-marine.  
-Source : http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html et https://en.wikipedia.org/wiki/Linus_Torvalds
+Source : http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html et https://en.wikipedia.org/wiki/Linus_Torvalds  
+
+Question 20 :
+-------------  
+**Combien coûte un nom de domaine ?**  
+
+En règle générale, il varie entre 6 et 15 euros.  
+Source : http://www.nddconline.org/31-combien-coute-un-nom-de-domaine  
+
