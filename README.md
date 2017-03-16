@@ -203,3 +203,15 @@ La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research I
 Pendant de nombreuses années les souris informatiques ne communiquaient avec l'ordinateur que par l'intermédiaire d'un fil, ce qui les faisait ressembler à des souris domestiques. Depuis, des modèles dont les communications avec l'ordinateur se font par ondes radio ou par liaisons infra-rouge sont courants.  
 Source : https://fr.wikipedia.org/wiki/Souris_(informatique)  
 
+Question 27 :
+-------------  
+**Qui est Margaret Hamilton ?**  
+
+Margaret Hamilton n'a que 24 ans lorsqu'elle intègre, en 1960, le MIT comme programmeuse. Très vite, elle se retrouve à travailler avec la NASA sur le logiciel informatique du programme Apollo, lancé par John F. Kennedy en 1961.
+Elle fait partie de l'équipe en charge de coder l'ordinateur qui gèrera le décollage et l'alunissage des fusées – le premier ordinateur portable soit dit en passant. La bête fait 32 kg, et pour cause : il doit, avant, pendant et après les trajets, faire tous les calculs nécessaires au bon déroulement des opérations. Bref, Margaret Hamilton est en charge de coder le tout premier logiciel de l'Histoire.  
+Source : http://mashable.france24.com/tech-business/20161122-margaret-hamilton-grace-hopper-medaille-liberte  
+
+Question 28 : 
+-------------  
+**Retrouvez le code source de la mission Apollo 11. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)**  
+
