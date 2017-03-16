@@ -178,6 +178,7 @@ Question 23 :
 **Et celle de votre smartphone ?**  
 
 100.110.254.155  
+Source : ource : http://www.mon-ip.com/adresse-ip-locale.php 
 
 Question 24 : 
 -------------  
@@ -192,5 +193,13 @@ Question 25 :
 
 Le hacker est une personne qui rentre dans un système informatique en sautant les barrières de protection, souvent par défi intellectuel et pas toujours par profit matériel. Certains ne font que visiter le système causant, malgré tout, la panique des services de sécurité. 
 D'autres hackers appelés parfois crackers sont beaucoup plus nuisibles; ils pénètrent un système et en détériorent le software en le modifiant,en le détruisant, en lui implantant un virus, etc...  
-Source : http://sef.xena.ad/lcf/traque/hackers.htm
+Source : http://sef.xena.ad/lcf/traque/hackers.htm  
+
+Question 26 :
+-------------  
+**Qui a inventé la souris ?**  
+
+La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.
+Pendant de nombreuses années les souris informatiques ne communiquaient avec l'ordinateur que par l'intermédiaire d'un fil, ce qui les faisait ressembler à des souris domestiques. Depuis, des modèles dont les communications avec l'ordinateur se font par ondes radio ou par liaisons infra-rouge sont courants.  
+Source : https://fr.wikipedia.org/wiki/Souris_(informatique)  
 
