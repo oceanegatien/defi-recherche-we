@@ -139,4 +139,14 @@ Question 18 :
 **Qu’est-ce qu’une attaque “brute force” ?**  
 
 Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles !Ce type d'attaque pirate est en réalité la moins subtile de toutes.  
-Source : https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
+Source : https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute  
+
+Question 19 :
+-------------  
+**Qui est Linus Torvalds ? Quels sont ses plus grands développements ?**  
+
+En 1991, un étudiant en informatique finlandais appelé Linus Torvalds écrivit la première version d'un noyau Unix pour son propre usage, et le publia sur l'Internet en demandant à d'autres programmeurs de l'aider pour le finaliser.
+Il fut submergé par les réponses et ce qui était à la base un projet d'étudiant devint de fil en aiguille un système d'exploitation complet.
+Torvalds fut agréablement surpris de constater que pratiquement tous les utilitaires dont il avait besoin pour étoffer son système étaient déjà disponibles sous la forme des utilitaires GNU et autres logiciels libres. Il les intégra tous et baptisa ce système d'exploitation complet Linux, pour Linus Unix.
+Il a également créé le système de contrôle de révision distribué Git et le logiciel de plongée et de planification sous-marine.  
+Source : http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html et https://en.wikipedia.org/wiki/Linus_Torvalds
