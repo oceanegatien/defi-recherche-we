@@ -95,4 +95,12 @@ Question 12 :
 **Qui est Aaron Swartz ?**  
 
 Aaron Hillel Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
-Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.
+Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.  
+Source : https://fr.wikipedia.org/wiki/Aaron_Swartz  
+
+Question 13 :
+-------------  
+**Qu’est-ce que le projet GNU ?**  
+
+Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Stallman fonda la "Free Software Foundation" en octobre 1985 pour gérer les aspects administratifs, juridiques et organisationnels du Projet GNU et pour développer l'utilisation et la connaissance du Logiciel Libre. Les principales licences issues du projet GNU sont la Licence Publique Générale GNU (GPL) et la Licence Publique Générale GNU Restreinte (LGPL nommée à l'origine Licence Publique Générale de Librairie). Au fil des ans, elles sont devenues les licences de Logiciel Libre les plus utilisées.  
+Source = https://fsfe.org/freesoftware/basics/gnuproject.fr.html
