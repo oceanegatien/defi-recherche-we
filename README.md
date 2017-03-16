@@ -38,4 +38,11 @@ Question 4:
 **Que sont le copyright et le copyleft ?**  
 
 * Copyriright : Droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.  
-* Copyleft : Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+* Copyleft : Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.  
+
+Question 5:
+----------  
+**Que sont les Creatives Commons ?**
+
+Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique. Résumé Creative Commons propose des contrats-type ou licences pour la mise à disposition d’œuvres en ligne. Inspirés par les licences libres, les mouvementsopen source et open access, ces licences facilitent l’utilisation d’œuvres (textes, photos, musique, sites web, etc).  
+Source : http://creativecommons.fr/
