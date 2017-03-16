@@ -158,3 +158,12 @@ Question 20 :
 En règle générale, il varie entre 6 et 15 euros.  
 Source : http://www.nddconline.org/31-combien-coute-un-nom-de-domaine  
 
+Question 21 :
+-------------  
+**Quels sont les différents services d'emailing disponibles ? Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?**  
+
+<img src="https://fr.mailjet.com/images/faq/en_US/email_types.png" alt="Tableau des differents services d'emailing">
+On utilisera les emails de notifications.  
+Source : https://fr.mailjet.com/docs/email_types
+
+
